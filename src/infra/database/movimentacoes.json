@@ -1,0 +1,36 @@
+{
+  "movimentacoes": [
+    {
+      "id": "75dfd51c-c59d-40fa-a10d-a9c9fbe361a9",
+      "descricao": "Entrada de produto no estoque",
+      "codigoProduto": 101,
+      "tipo": "entrada",
+      "quantidade": 10,
+      "quantidadeTotalEstoque": 160
+    },
+    {
+      "id": "d113bc21-b805-4350-9feb-3b1bdbd061d3",
+      "descricao": "Saída de produto do estoque",
+      "codigoProduto": 101,
+      "tipo": "saida",
+      "quantidade": 10,
+      "quantidadeTotalEstoque": 150
+    },
+    {
+      "id": "48fbdc82-f5a8-4710-8123-d651f7c7946d",
+      "descricao": "Entrada de produto no estoque",
+      "codigoProduto": 101,
+      "tipo": "entrada",
+      "quantidade": 10,
+      "quantidadeTotalEstoque": 160
+    },
+    {
+      "id": "4a2fb1c0-7a68-4ee5-b011-fe56fc23e903",
+      "descricao": "Saída de produto do estoque",
+      "codigoProduto": 101,
+      "tipo": "saida",
+      "quantidade": 10,
+      "quantidadeTotalEstoque": 150
+    }
+  ]
+}
